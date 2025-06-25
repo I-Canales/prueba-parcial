@@ -16,5 +16,3 @@ def comprar_entrada():
     if nombre in compradores:
         print("El comprador ya está registrado.")
         return
-
- 
